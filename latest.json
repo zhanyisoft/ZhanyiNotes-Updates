@@ -1,0 +1,6 @@
+{
+    "version": "2.0.2",
+    "url": "https://itzhanyi.top/downloads/ZhanyiNotes-Setup.exe",
+    "sha256": "857e54ccdd2f0c57163e679c6a2d51c8d6dc0b3d6404a693c5d030fb09d865fd",
+    "notes": "桌面版预览现在能显示手机上上传的云端图片（自动下载并缓存到本地）"
+}
