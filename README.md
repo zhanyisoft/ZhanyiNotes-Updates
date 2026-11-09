@@ -8,11 +8,13 @@ Windows 本地 Markdown 笔记软件：左边写、右边实时看排版。笔�
 
 | 平台 | 入口 |
 |---|---|
-| Windows 10 / 11 | [官网下载](https://itzhanyi.top/downloads/ZhanyiNotes-Setup.exe) · [产品页](https://itzhanyi.top/products/zhanyinotes/) |
-| 安卓 App | [APK 下载](https://itzhanyi.top/downloads/ZhanyiNotes-Android.apk) |
+| Windows 10 / 11 | [GitHub 下载](https://github.com/zhanyisoft/ZhanyiNotes-Updates/releases/latest/download/ZhanyiNotes-Setup.exe) · [官网下载](https://itzhanyi.top/downloads/ZhanyiNotes-Setup.exe) · [产品页](https://itzhanyi.top/products/zhanyinotes/) |
+| 安卓 App | [GitHub 下载](https://github.com/zhanyisoft/ZhanyiNotes-Updates/releases/latest/download/ZhanyiNotes-Android.apk) · [官网下载](https://itzhanyi.top/downloads/ZhanyiNotes-Android.apk) |
 | iPhone / 手机网页版 | [https://itzhanyi.top/notes/](https://itzhanyi.top/notes/)（浏览器直接用，不用安装） |
 
 覆盖安装会保留你的笔记和设置；卸载只删程序，笔记目录原样保留。
+
+所有历史版本在 [Releases](https://github.com/zhanyisoft/ZhanyiNotes-Updates/releases) 里。
 
 ## 主要功能
 
